@@ -1,7 +1,7 @@
 import Nav from "../components/nav";
 import Head from "next/head";
 
-function Home() {
+function Homepage() {
   return (
     <div>
       <Head>
@@ -13,4 +13,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Homepage;
